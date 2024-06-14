@@ -15,7 +15,8 @@ mini_python_projects
 
 #calculator
 
-![2024-06-14 10_12_13-CountDown Timer](https://github.com/vimalj/mini_python_projects/assets/45177365/8fa73d80-5bc5-4e04-bbfc-d5fd0ebdd558)
+![2024-06-14 12_10_20-my](https://github.com/vimalj/mini_python_projects/assets/45177365/ce12f013-90ea-4afe-9347-95fcca4a390b)
+
 
 #python notepad
 
