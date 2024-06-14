@@ -20,3 +20,8 @@ mini_python_projects
 #python notepad
 
 ![2024-06-14 10_13_42-Notepad python](https://github.com/vimalj/mini_python_projects/assets/45177365/4c5c80ce-1910-4f0f-8a7e-d28824a46e8d)
+
+#python pattern turtle
+
+![2024-06-14 10_52_55-Python Turtle Graphics](https://github.com/vimalj/mini_python_projects/assets/45177365/082b7c01-854e-4594-ac46-572c3ef4cbc1)
+
