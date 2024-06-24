@@ -1,5 +1,7 @@
-# mini_python_projects
-mini_python_projects
+# Basic Python Programs
+[Download BASIC PYTHON PROGRAMS PDF](Python Basic Programs.pdf)
+
+# Mini_python_projects
 
 # Digital clock
 
