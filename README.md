@@ -1,5 +1,5 @@
 # Basic Python Programs
-[Download BASIC PYTHON PROGRAMS PDF](Python Basic Programs.pdf)
+[Download BASIC PYTHON PROGRAMS PDF](Python-Basic-Programs.pdf)
 
 # Mini_python_projects
 
